@@ -11,5 +11,6 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br>
 
 <h2 align="center"> :movie_camera: Fotos do Projeto</h2>
+<img src="https://github.com/DhabiaRamos/projeto-we-care/blob/master/img/we-care-preview.png?raw=true" />
 
 
